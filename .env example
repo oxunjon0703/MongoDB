@@ -1,0 +1,4 @@
+PORT=
+JWT_KEY=
+
+DB_MONGO=
